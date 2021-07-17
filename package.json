@@ -1,0 +1,22 @@
+{
+  "name": "cypressapiauto",
+  "version": "1.0.0",
+  "description": "API automation tests using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalPaul94/CypressApiAuto.git"
+  },
+  "author": "Vishal Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalPaul94/CypressApiAuto/issues"
+  },
+  "homepage": "https://github.com/VishalPaul94/CypressApiAuto#readme",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}
